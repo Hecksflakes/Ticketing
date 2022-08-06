@@ -2,4 +2,5 @@ This is a  test git file for cohort 8. The expectation is that at the end of thi
 1-refreshed our memory on the last class
 2 learnt
 3 we will be file
-4 kuurrrr
+4 push your code
+5 check it out
