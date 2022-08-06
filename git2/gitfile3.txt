@@ -1,2 +1,3 @@
 i am testing if I would get the branch thing
 first line was successful now trying second line
+adding third line to gitfile3 on github, testing fetching in to the branch
